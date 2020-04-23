@@ -32,6 +32,3 @@ public class CalculadoraSalario {
 	}
 
 }
-/*Dúvidas ou Problemas?
-Manda e-mail para o meajuda@codenation.dev que iremos te ajudar! 
-*/
